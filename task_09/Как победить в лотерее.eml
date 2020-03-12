@@ -1,0 +1,73 @@
+Return-Path: <lucky.b000y@infosec-career.tk>
+Delivered-To: lucky@infosec-career.tk
+Received: from mail.infosec-career.tk (mail.infosec-career.tk [127.0.0.1])
+	by mail.infosec-career.tk (Postfix) with ESMTP id 48W3nP11Chz9sKb
+	for <lucky@infosec-career.tk>; Mon,  2 Mar 2020 02:22:17 +0000 (UTC)
+Authentication-Results: mail.infosec-career.tk (amavisd-new); dkim=pass
+	reason="pass (just generated, assumed good)"
+	header.d=infosec-career.tk
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=
+	infosec-career.tk; h=content-transfer-encoding:message-id
+	:user-agent:subject:to:from:date:content-type:mime-version; s=
+	dkim; t=1583115725; x=1585707726; bh=QfEai8aGP/NewvNaF9G5lAnEHzM
+	7YYMAMA72vULTMsc=; b=CIlVdVKYup7J2l9uZidDUpyeIhqn+DDwLC3FhEUQVEf
+	GULjGQJpTTfRWywZyL4mthyR6g1JyOfIvYRsRtvMt/+TfezL3sWgcbQdRG78xKWZ
+	7QyUZwzrZF7C2iRerOxuSJLve1XgXflrP+4Aq0K8p8bFSOwekJlzSIzLqCU7yKTc
+	=
+X-Virus-Scanned: Debian amavisd-new at mail.infosec-career.tk
+Received: from mail.infosec-career.tk ([127.0.0.1])
+	by mail.infosec-career.tk (mail.infosec-career.tk [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id ZwTkYZ7T4Rjf for <lucky@infosec-career.tk>;
+	Mon,  2 Mar 2020 02:22:05 +0000 (UTC)
+Received: from localhost (mail.infosec-career.tk [127.0.0.1])
+	by mail.infosec-career.tk (Postfix) with ESMTPSA id 48W3n90tdkz9sKY
+	for <lucky@infosec-career.tk>; Mon,  2 Mar 2020 02:22:05 +0000 (UTC)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Date: Mon, 02 Mar 2020 05:22:05 +0300
+From: lucky.b000y@infosec-career.tk
+To: lucky@infosec-career.tk
+Subject: =?UTF-8?Q?=D0=9A=D0=B0=D0=BA_=D0=BF=D0=BE=D0=B1=D0=B5=D0=B4?=
+ =?UTF-8?Q?=D0=B8=D1=82=D1=8C_=D0=B2_=D0=BB=D0=BE=D1=82=D0=B5=D1=80=D0=B5?=
+ =?UTF-8?Q?=D0=B5?=
+User-Agent: Roundcube Webmail
+Message-ID: <f73af20e30ed83f77c38f03b975b7dba@infosec-career.tk>
+X-Sender: lucky.b000y@infosec-career.tk
+Content-Transfer-Encoding: quoted-printable
+
+=D0=97=D0=B4=D1=80=D0=B0=D0=B2=D1=81=D1=82=D0=B2=D1=83=D0=B9, =D0=B5=D1=81=
+=D0=BB=D0=B8 =D1=87=D1=82=D0=BE =D1=82=D0=B5=D0=B1=D0=B5 =D1=83=D0=B4=D0=B0=
+=D0=BB=D0=BE=D1=81=D1=8C =D0=BF=D0=BE=D0=BF=D0=B0=D1=81=D1=82=D1=8C =D0=B2=
+ =D0=B1=D1=83=D0=B4=D1=83=D1=89=D0=B5=D0=B5 =D0=B8 =D1=82=D0=B5=D0=BF=D0=B5=
+=D1=80=D1=8C =D1=82=D1=8B =D0=BF=D0=B8=D1=88=D0=B5=D1=88=D1=8C=20
+=D1=81=D0=B5=D0=B1=D0=B5.
+=D0=92=D1=80=D0=B5=D0=BC=D1=8F =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B5=
+ =D1=8F =D0=B1=D1=83=D0=B4=D1=83 =D0=BF=D1=80=D0=B5=D0=B1=D1=8B=D0=B2=D0=B0=
+=D1=82=D1=8C =D0=B2 =D0=B1=D1=83=D0=B4=D1=83=D1=89=D0=B5=D0=BC =D0=BE=D1=87=
+=D0=B5=D0=BD=D1=8C =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=
+=D0=BE, =D0=BF=D0=BE=D1=8D=D1=82=D0=BE=D0=BC=D1=83 =D0=B2=D1=81=D1=91=20
+=D1=87=D1=82=D0=BE =D1=8F =D1=83=D1=81=D0=BF=D0=B5=D0=BB =D1=82=D0=B0=D0=BA=
+ =D1=8D=D1=82=D0=BE =D0=BD=D0=B0=D0=B9=D1=82=D0=B8 =D1=81=D0=BF=D0=BE=D1=81=
+=D0=BE=D0=B1 =D0=BE=D0=B1=D0=BE=D0=B3=D0=B0=D1=82=D0=B8=D1=82=D1=8C =D1=82=
+=D0=B5=D0=B1=D1=8F.
+
+=D0=9D=D0=B5=D0=B4=D0=B0=D0=B2=D0=BD=D0=BE =D0=B1=D1=8B=D0=BB=D0=B0 =D0=BB=
+=D0=BE=D1=82=D0=B5=D1=80=D0=B5=D1=8F =D1=81 =D0=BE=D0=B3=D1=80=D0=BE=D0=BC=
+=D0=BD=D1=8B=D0=BC =D0=BF=D1=80=D0=B8=D0=B7=D0=BE=D0=BC. =D0=A2=D0=B0=D0=BA=
+ =D0=B2=D0=BE=D1=82 =D1=81=D1=87=D0=B8=D1=82=D0=B0=D0=B9 =D1=8D=D1=82=D0=BE=
+ =D0=B2=D1=81=D1=91 =D0=B1=D1=83=D0=B4=D0=B5=D1=82=20
+=D1=82=D0=B2=D0=BE=D0=B8=D0=BC =D0=B5=D1=81=D0=BB=D0=B8 =D0=BF=D0=BE=D0=B2=
+=D0=B5=D1=80=D0=B8=D1=88=D1=8C =D0=BC=D0=BD=D0=B5 (=D0=BD=D0=B5 =D0=BF=D0=
+=BE=D0=B4=D0=B2=D0=B5=D0=B4=D0=B8)
+=D0=9D=D0=BE=D0=BC=D0=B5=D1=80 =D0=B1=D0=B8=D0=BB=D0=B5=D1=82=D0=B0: 1081=
+11116
+
+=D0=9A=D1=81=D1=82=D0=B0=D1=82=D0=B8, =D0=B7=D0=B0=D0=BA=D0=BE=D0=BD=D1=87=
+=D0=B8=D0=BB =D1=83=D0=BD=D0=B8=D0=B2=D0=B5=D1=80 =D0=B8 =D0=BE=D0=B1=D0=BD=
+=D0=B0=D1=80=D1=83=D0=B6=D0=B8=D0=BB =D1=83 =D1=81=D0=B5=D0=B1=D1=8F =D0=BF=
+=D0=BE=D0=B2=D0=B5=D1=81=D1=82=D0=BA=D1=83, =D1=82=D0=B0=D0=BA =D1=87=D1=82=
+=D0=BE =D0=B2=D0=B4=D0=B2=D0=BE=D0=B9=D0=BD=D0=B5=20
+=D1=85=D0=BE=D1=87=D1=83 =D0=BE=D1=82=D1=81=D1=8E=D0=B4=D0=B0 =D0=BF=D0=BE=
+=D1=81=D0=BA=D0=BE=D1=80=D0=B5=D0=B5 =D0=B2=D1=8B=D0=B1=D1=80=D0=B0=D1=82=
+=D1=8C=D1=81=D1=8F
