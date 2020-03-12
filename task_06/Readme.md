@@ -34,3 +34,6 @@ level4 = requests.post(url+"/level4" ,cookies=cookie,data = {"captcha":res})
 print(level4.text)
 
 ```
+____
+##### Score: 10/10
+
