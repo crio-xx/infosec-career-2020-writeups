@@ -1,4 +1,4 @@
-# №1. По какому протоколу "ходит" DNS?
+# По какому протоколу "ходит" DNS?
 
 **DNS** (Domain Name System) - Application layer модели OSI, часть семейства TCP/IP.
 
